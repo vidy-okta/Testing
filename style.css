@@ -1,0 +1,18 @@
+h1.judul{
+	color: #3b5441;
+	text-shadow: 5px 5px 5px #83e85a;
+	text-align: center;
+	font-size: 60px;
+	background-color: #bfa46f;
+	font-family: Cinzel;
+	font-weight: 800;
+	margin: 0 180px 0px 180px;
+	border-radius: 8px;
+}
+
+.show{
+	background-color: #bfa46f;
+	margin: 0 20px;
+	border-radius: 8px
+	padding: 20px 0;
+}
